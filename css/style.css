@@ -230,6 +230,8 @@ body {
     .btn-nav-mobile {
         display: flex;
         text-align: center;
+        color: #000;
+        text-decoration: none;
         padding: 8px 16px;
         font-size: 1.2rem;
         background-color: #74b800;
